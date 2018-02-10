@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.fhapp.setup" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>FH Burgenland App</name>
+    <name>FH Burgenland App 2.0</name>
     <description>
-        Die App, die Besonderes zusammen bringt. Die FH Burgenland App unterstützt StudentInnen und LektorInnen im FH-Alltag mit vielen praktischen Funktionen: Indoor Navigation, Umgebungskarte der FH mit nützlicher Infrastruktur, aktueller Mensaplan und vieles mehr.
+        Die App 2.0, die Besonderes zusammen bringt. Die FH Burgenland App 2.0 unterstützt StudentInnen und LektorInnen im FH-Alltag mit vielen neuen praktischen Funktionen.
     </description>
     <content src="index.html" />
     <access origin="*" />
@@ -34,4 +34,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <preference name="SplashScreenDelay" value="0" />
+    <preference name="FadeSplashScreenDuration" value="0" />
+    <plugin name="cordova-plugin-whitelist" spec="~1.2.2" />
 </widget>
