@@ -11,7 +11,7 @@
        <platform name="android">
         <icon   src="img/drawable-ldpi-icon.png"               density="ldpi" />
         <icon   src="img/drawable-mdpi-icon.png"               density="mdpi" />
-        <icon   src="img/drawable-hdpi-icon.png"               density="hdpi" />
+        <icon   src="img/drawable-hdpi2-icon.png"               density="hdpi" />
         <icon   src="img/drawable-xhdpi-icon.png"              density="xhdpi" />
         <icon   src="img/drawable-xxhdpi-icon.png"             density="xxhdpi" />
         <icon   src="img/drawable-xxxhdpi-icon.png"            density="xxxhdpi" />
